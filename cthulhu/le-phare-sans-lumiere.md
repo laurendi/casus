@@ -1,3 +1,3 @@
 # Repo transféré
 
-* https://github.com/lraboteau/the-lightless-beacon
+* https://github.com/laurendi/the-lightless-beacon
